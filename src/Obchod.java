@@ -1,6 +1,5 @@
-public class Obchod {
-    private float rozloha;
-    private int pocetPoschodi;
+public class Obchod extends Stavba {
+
     private int pocetPokladen;
 
     Obchod(float rozloha, int pocetPoschodi, int pocetPokladen) {
@@ -10,11 +9,9 @@ public class Obchod {
     }
 
     public float vypocetCenyObchodu(){
-        float cena = (rozloha * pocetPoschodi) + 5000 * pocetPokladen;
+        float cena = (rozloha * pocetPoschodi * 500) + 5000 * pocetPokladen;
         System.out.println("Cena obchodu: " + cena);
         return cena;
     }
-
-
 
 }

@@ -6,8 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="6c1affc3-8d6e-4671-b1c5-9e21c56be15f" name="Changes" comment="Pridan RodinnyDum">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kocka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kocka.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Obchod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Obchod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/RodinnyDum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RodinnyDum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stavba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stavba.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +42,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
