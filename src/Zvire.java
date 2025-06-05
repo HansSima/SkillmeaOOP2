@@ -1,2 +1,10 @@
-package PACKAGE_NAME;public class Zvire {
+public abstract class Zvire {
+    protected int pocetNohou;
+    protected String rasa;
+    protected float hmotnost;
+
+    public void udelejZvuk() {
+        System.out.println("Haf");
+    }
+
 }

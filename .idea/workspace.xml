@@ -6,12 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="6c1affc3-8d6e-4671-b1c5-9e21c56be15f" name="Changes" comment="Pridan RodinnyDum">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Banka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Banka.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Kocka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kocka.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Obchod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Obchod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Pes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RodinnyDum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RodinnyDum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Stavba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stavba.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zvire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zvire.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
